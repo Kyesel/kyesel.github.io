@@ -1,0 +1,26 @@
+body{
+    margin-bottom: 2.5em;
+}
+
+.song-cover{
+    text-align: center;
+}
+
+.song-cover > img{
+    height: 256px;
+    width: 256px;
+}
+
+#jukebox{
+    position: fixed;
+    padding: .25em;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    border-top: .1em solid black;
+    background-color: snow;
+}
+
+#jukebox *{
+    vertical-align: middle;
+}

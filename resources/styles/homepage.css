@@ -1,0 +1,30 @@
+html {
+    font-size: 4rem;
+    background-color;
+}
+
+@media screen and (max-width: 1300px) {
+    html {
+        font-size: 2.5em;
+    }
+}
+
+h1 {
+    margin: .25em 0em .25em;
+}
+
+h2 {
+    margin: 0em 0em 0em;
+}
+
+ul {
+    margin: .25em 1em .25em;
+}
+
+ul li {
+    margin-bottom: .5em;
+}
+
+address {
+    margin-top: 3.5em;
+}
